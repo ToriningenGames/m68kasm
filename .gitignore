@@ -1,0 +1,7 @@
+# Intermediary build files
+*.o
+
+# (Eventual) build directories
+bin
+obj
+
