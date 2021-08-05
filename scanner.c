@@ -57,7 +57,7 @@ static int parsenum(int base)
 {
 
 //Ready the lexer
-void init(char *infile)
+void lex_init(char *infile)
 {
 	if (input) {
 		fclose(input);
